@@ -1,2 +1,4 @@
 # brianwxyz.github.io
-site for brianw.xyz
+Github pages site for brianw.xyz
+
+Made for my friend, Brian Walters.
